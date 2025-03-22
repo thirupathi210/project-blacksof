@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blacksof/static/css/main.08e2f3a3.css",
+    "main.js": "/blacksof/static/js/main.41f8678f.js",
+    "static/js/453.b5411511.chunk.js": "/blacksof/static/js/453.b5411511.chunk.js",
+    "static/media/logo.svg": "/blacksof/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blacksof/index.html",
+    "main.08e2f3a3.css.map": "/blacksof/static/css/main.08e2f3a3.css.map",
+    "main.41f8678f.js.map": "/blacksof/static/js/main.41f8678f.js.map",
+    "453.b5411511.chunk.js.map": "/blacksof/static/js/453.b5411511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e2f3a3.css",
+    "static/js/main.41f8678f.js"
+  ]
+}
